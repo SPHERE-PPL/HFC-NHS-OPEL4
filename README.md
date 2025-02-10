@@ -1,5 +1,7 @@
 # SPHERE-PPL Health Forecasting Contest - NHS OPEL 4 Predictions
 
+> [**This repo/contest is currently under construction so details may change before the start date.**]{.underline}
+
 ## Introduction[^readme-1]
 
 [^readme-1]: Adapted from NHS England Website (<https://www.england.nhs.uk/long-read/integrated-opel-framework-2024-to-2026/>)
